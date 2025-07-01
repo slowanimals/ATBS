@@ -1,5 +1,5 @@
 # Chapter 7 exercise, written by me
-# did follow tutorial for print_chessboard
+# did follow tutorial for print_chessboard from ATBS
 import sys, copy
 
 STARTING_PIECES = {'a8': 'bR', 'b8': 'bN', 'c8': 'bB', 'd8': 'bQ',

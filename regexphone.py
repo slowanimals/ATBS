@@ -1,4 +1,4 @@
-# ch 9 exercise
+# ch 9 exercise, written by me
 import re
 
 pattern = re.compile(r'(\d{3})-\d{3}-\d{4}')
